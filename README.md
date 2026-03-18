@@ -1,4 +1,13 @@
+<p align="center">
+  <img src="https://dummyimage.com/1200x350/8b0000/ffffff&text=J+++O+++E" alt="JOE Banner">
+</p>
+
+<p align="center">
+  <strong>AI Engineering • High‑Performance Systems • Full‑Stack Development</strong>
+</p>
+
 ## Po Joseph Molefe (Joe)
+---
 Hi, I’m Joe — a software developer with a multidisciplinary foundation spanning business, financial services, and the performing arts. I build software with the precision of an engineer, the strategy of a business advisor, and the creativity of a performer.
 
 ## What I’m Focused On
