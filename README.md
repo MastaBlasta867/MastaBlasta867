@@ -6,7 +6,9 @@
   <strong>AI Engineering • High‑Performance Systems • Full‑Stack Development</strong>
 </p>
 
-## Po Joseph Molefe (Joe)
+## J O E
+Distributed AI Engineer
+ | Founder of ANKH — Applied Neural Knowledge Hub
 ---
 Hi, I’m Joe — a software developer with a multidisciplinary foundation spanning business, financial services, and the performing arts. I build software with the precision of an engineer, the strategy of a business advisor, and the creativity of a performer.
 
