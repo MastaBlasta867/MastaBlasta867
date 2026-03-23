@@ -23,6 +23,27 @@ Hi, I’m Joe — a software developer with a multidisciplinary foundation spann
 
 - Building products that feel intuitive and human
 
+---
+
+## Flagship Project
+
+### Polyglot AI Orchestrator
+A distributed, multi‑language AI workflow engine built with:
+
+- Go (gateway + orchestrator)
+
+- Rust (vector search + performance engine)
+
+- Python (RAG + ML inference)
+
+- React (real‑time UI)
+
+- Docker, CI/CD, Observability
+
+This is my systems‑engineering masterpiece — a project that demonstrates distributed workflows, concurrency, performance, and AI integration.
+
+---
+
 ## Technical Background
 ### Microsoft Full‑Stack Software Engineering (C# / .NET)
 My engineering journey began with Microsoft’s professional certification, where I learned full‑stack development using:
